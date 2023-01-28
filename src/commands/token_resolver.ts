@@ -29,7 +29,7 @@ const filter_options = (interaction: ChatInputCommandInteraction, collection: GM
   let tokens = [...collection.tokens];
   for (let option of options) {
     if (option.name === "token_id") continue;
-    tokens = tokens.filter(token => token.attributes[option.name === "palette_contd" ? "palette" : option.name] === option.value);
+    tokens = tokens.filter(token => token.attributes[option.name.includes("page") ? option.name.split("_")[0] : option.name] === option.value);
     trait_string += `${(option.name === "palette_contd" ? "palette" : option.name)}: *${option.value}*\n`;
   }
   return [tokens, trait_string.slice(0, -1)];

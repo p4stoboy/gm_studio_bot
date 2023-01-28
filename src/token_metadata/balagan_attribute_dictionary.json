@@ -1,0 +1,254 @@
+{
+  "root": [
+    {
+      "name": "background",
+      "values": [
+        "_ff94a5",
+        "_434242",
+        "_f4dfba",
+        "_f9f2ed",
+        "_00798c",
+        "_74bfec",
+        "_495c83",
+        "_b4a6cd",
+        "_f3efe0",
+        "_404b69",
+        "_75b9e3",
+        "_111111",
+        "_3c4048",
+        "_ca8a8b",
+        "_f6dcad",
+        "_edeae1",
+        "_4c4c4c",
+        "_f7f5eb",
+        "_eb6e7e",
+        "_2c3333",
+        "_fa686a",
+        "_41b7a7",
+        "_faf8f1",
+        "_fae1c2",
+        "_393e46"
+      ]
+    },
+    {
+      "name": "background_page_2",
+      "values": [
+        "_87cbbb",
+        "_e5d9b6",
+        "_6fb6e0",
+        "_f5f5f5",
+        "_86d0ec",
+        "_30475e",
+        "_f7ede2",
+        "_fff8ea",
+        "_50c0b2",
+        "_f4ebca",
+        "_30638e",
+        "_fefcf3",
+        "_f39188",
+        "_ffd495",
+        "_83c5be",
+        "_f8f9fa",
+        "_f8efd4",
+        "_efc67a",
+        "_e59b66",
+        "_ec6a7e",
+        "_51c1bd",
+        "_264653",
+        "_fffbeb",
+        "_ff8352",
+        "_c8b5d5"
+      ]
+    },
+    {
+      "name": "background_page_3",
+      "values": [
+        "_569fd1",
+        "_4d9de0",
+        "_8163ac",
+        "_f3c87a",
+        "_b5a6cd",
+        "_f8d374",
+        "_cfd2cf",
+        "_abd8d3",
+        "_7776bc",
+        "_3fa8a3",
+        "_aa6daf",
+        "_ee6e7e",
+        "_f6f6f6",
+        "_ddc47f",
+        "_497285",
+        "_75bae2",
+        "_eff5f5",
+        "_8a74a0",
+        "_2d90ce",
+        "_fcc79f",
+        "_6891fe",
+        "_3d6e85",
+        "_ffd880",
+        "_d1495b",
+        "_f3a284"
+      ]
+    },
+    {
+      "name": "background_page_4",
+      "values": [
+        "_a762a4",
+        "_faf7f0",
+        "_476d7c"
+      ]
+    },
+    {
+      "name": "block_contains_multiple_tiles",
+      "values": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "name": "block_height_increases",
+      "values": [
+        "no",
+        "top_to_bottom",
+        "bottom_to_top"
+      ]
+    },
+    {
+      "name": "blocks_count",
+      "values": [
+        "51-100",
+        "301-400",
+        "501-600",
+        "101-150",
+        "201-300",
+        "601-700",
+        "151-200",
+        "401-500",
+        "801-1000",
+        "701-800",
+        "_51",
+        "_1000"
+      ]
+    },
+    {
+      "name": "blocks_size",
+      "values": [
+        "big",
+        "small",
+        "mini",
+        "changing",
+        "huge",
+        "super_mini"
+      ]
+    },
+    {
+      "name": "decorations_theme",
+      "values": [
+        "mess",
+        "all_stars",
+        "gaming",
+        "characters",
+        "vintage_tv",
+        "nokia_5110",
+        "vintage",
+        "controller"
+      ]
+    },
+    {
+      "name": "different_block_heights",
+      "values": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "disorder",
+      "values": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "divided_layout",
+      "values": [
+        "no",
+        "diagonal_rtl",
+        "rows___columns",
+        "columns",
+        "rows",
+        "diagonal_ltr"
+      ]
+    },
+    {
+      "name": "fill_voids",
+      "values": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "layout",
+      "values": [
+        "basic",
+        "diamond",
+        "balagan",
+        "blueprint_balagan"
+      ]
+    },
+    {
+      "name": "missing_blocks",
+      "values": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "name": "negative_spaces",
+      "values": [
+        "yes",
+        "no"
+      ]
+    },
+    {
+      "name": "only_flat_decorations",
+      "values": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "palette",
+      "values": [
+        "it_s_britney",
+        "fusion_tetris",
+        "the_lion_king",
+        "ren___stimpy",
+        "tamagotchi",
+        "pok_mon",
+        "super_mario_bros_",
+        "gameboy",
+        "south_park",
+        "crash_bandicoot",
+        "y2k",
+        "cerulean_blues",
+        "walkman",
+        "mondrian",
+        "doc_martens",
+        "lip_smacker",
+        "1992",
+        "clueless",
+        "discman",
+        "pacman",
+        "tetris",
+        "monochrome",
+        "hard_candy",
+        "daft_punk",
+        "vhs"
+      ]
+    },
+    {
+      "name": "palette_page_2",
+      "values": ["1995"]
+    }
+  ]
+}

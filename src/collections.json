@@ -47,6 +47,14 @@
       "size": 555,
       "twitter": "https://twitter.com/AsafSlook",
       "contract": "0x8306fbf07c1bc59393dd9d3afc2a0ef97dfc7473"
+    },
+    {
+      "author": "Sapir Cohen",
+      "name": "Balagan",
+      "slug": "balagan",
+      "size": 555,
+      "twitter": "https://twitter.com/SapirCohen__",
+      "contract": "0x90e0Ec77613FCCa0F98ECfa7B51FBF0eee9D6A91"
     }
   ]
 }

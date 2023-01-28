@@ -26,7 +26,7 @@ const dump_token_metadata = async () => {
       current.push(token_data);
     }
     const json = {"root": current};
-    fs.writeFileSync(`./token_metadata/${collection.slug}.json`, JSON.stringify(json));
+    fs.writeFileSync(`../token_metadata/${collection.slug}.json`, JSON.stringify(json));
     dump_attribute_dictionary(current);
 }
 
@@ -51,7 +51,7 @@ const dump_attribute_dictionary = (tokens: TokenData[]) => {
       }
     }
     const json = {root: attributes};
-    fs.writeFileSync(`./token_metadata/${collection.slug}_attribute_dictionary.json`, JSON.stringify(json, null, 2));
+    fs.writeFileSync(`../token_metadata/${collection.slug}_attribute_dictionary.json`, JSON.stringify(json, null, 2));
 }
 
 dump_token_metadata();
