@@ -55,6 +55,22 @@
       "size": 555,
       "twitter": "https://twitter.com/SapirCohen__",
       "contract": "0x90e0Ec77613FCCa0F98ECfa7B51FBF0eee9D6A91"
+    },
+    {
+      "author": "Darien Brito",
+      "name": "Quadrature",
+      "slug": "quadrature",
+      "size": 300,
+      "twitter": "https://twitter.com/DarienBrito",
+      "contract": "0x95864937cc8c90878c3254cf418632f8154d3b7d"
+    },
+    {
+      "author": "Andrew Strauss x p4stoboy",
+      "name": "Ides Of March",
+      "slug": "ides-of-march",
+      "size": 300,
+      "twitter": "https://twitter.com/studiostrauss",
+      "contract": "0xd1b0cbe10f30a711117589a48da78e4e5755cc24"
     }
   ]
 }

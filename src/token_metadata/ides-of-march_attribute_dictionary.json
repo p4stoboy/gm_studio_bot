@@ -1,0 +1,95 @@
+{
+  "root": [
+    {
+      "name": "aligned",
+      "values": [
+        "true",
+        "false"
+      ]
+    },
+    {
+      "name": "border",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "name": "carpet",
+      "values": [
+        "none",
+        "dots",
+        "stripes",
+        "grid"
+      ]
+    },
+    {
+      "name": "light_direction",
+      "values": [
+        "north_south",
+        "east_west",
+        "central"
+      ]
+    },
+    {
+      "name": "light_height",
+      "values": [
+        "high",
+        "low",
+        "medium"
+      ]
+    },
+    {
+      "name": "outline",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "name": "palette",
+      "values": [
+        "pugio_i",
+        "pugio_ii",
+        "watch_2",
+        "sanguis",
+        "homer_the_great_6-12",
+        "caelum_oceanus",
+        "mors",
+        "springfield",
+        "pugio_v",
+        "xxiii",
+        "senatus",
+        "memoriae",
+        "coniuratio",
+        "somnum_exterreri",
+        "caedes",
+        "brutus",
+        "pugio_vi",
+        "calpurnia",
+        "solis_occasum_primus",
+        "astrum",
+        "pugio_iv",
+        "gloria",
+        "caelum",
+        "pugio_iii"
+      ]
+    },
+    {
+      "name": "senate",
+      "values": [
+        "serene",
+        "incensed",
+        "deliberating",
+        "deadlocked"
+      ]
+    },
+    {
+      "name": "structures",
+      "values": [
+        "multiple",
+        "single"
+      ]
+    }
+  ]
+}
