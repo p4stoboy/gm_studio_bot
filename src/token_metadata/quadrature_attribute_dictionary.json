@@ -77,13 +77,13 @@
         "monochrome_b",
         "nivel",
         "vefem_b",
-        "ackern",
-        "vithe_b"
+        "ackern"
       ]
     },
     {
       "name": "palette_page_3",
       "values": [
+        "vithe_b",
         "delata_c",
         "elaene",
         "soberel_b",
