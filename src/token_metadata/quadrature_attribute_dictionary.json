@@ -1,0 +1,121 @@
+{
+  "root": [
+    {
+      "name": "assembly",
+      "values": [
+        "ba",
+        "a"
+      ]
+    },
+    {
+      "name": "decoupled",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "name": "minimized",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "name": "palette",
+      "values": [
+        "golden_opacity",
+        "monochrome_a",
+        "terracota_c",
+        "rhye_c",
+        "watermelon_a",
+        "rhye_d",
+        "rhye_b",
+        "nitee_b",
+        "kinse_a",
+        "rosa_b",
+        "vefem_c",
+        "torque_d",
+        "rhye_a",
+        "torque_b",
+        "torque_e",
+        "carnaval",
+        "azur_a",
+        "linolee",
+        "archipielago",
+        "nitee_a",
+        "apritz",
+        "rhye_e",
+        "charemica_b",
+        "dark_orange"
+      ]
+    },
+    {
+      "name": "palette_page_2",
+      "values": [
+        "mint",
+        "terracota_a",
+        "bosque_c",
+        "bosque_a",
+        "purpurine",
+        "kelenic",
+        "hemes",
+        "watermelon_b",
+        "charemica_a",
+        "venthe_b",
+        "fluoric",
+        "torque_a",
+        "azur_b",
+        "vithe_a",
+        "soberel_a",
+        "kinse_b",
+        "torque_c",
+        "fragilem_b",
+        "nerman",
+        "terracota_b",
+        "vefem_a",
+        "monochrome_b",
+        "nivel",
+        "vefem_b",
+        "ackern",
+        "vithe_b"
+      ]
+    },
+    {
+      "name": "palette_page_3",
+      "values": [
+        "delata_c",
+        "elaene",
+        "soberel_b",
+        "azur_c",
+        "delata_a",
+        "nolenic",
+        "esper",
+        "dark_fluoric",
+        "oggol",
+        "fragilem_a"
+      ]
+    },
+    {
+      "name": "set",
+      "values": [
+        "2",
+        "4",
+        "6",
+        "0",
+        "3",
+        "5",
+        "1",
+        "7"
+      ]
+    },
+    {
+      "name": "surface",
+      "values": [
+        "patterns",
+        "gradient",
+        "solid"
+      ]
+    }
+  ]
+}
