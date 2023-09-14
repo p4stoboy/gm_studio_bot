@@ -55,6 +55,14 @@
       "size": 555,
       "twitter": "https://twitter.com/SapirCohen__",
       "contract": "0x90e0Ec77613FCCa0F98ECfa7B51FBF0eee9D6A91"
+    },
+    {
+      "author": "Adam genlight",
+      "name": "A Daydream for Libby",
+      "slug": "a-daydream-for-libby",
+      "size": 521,
+      "twitter": "https://twitter.com/generativelight",
+      "contract": "0xf5f0c19c4fc2dc2a69edcfcae9e29892d544333b"
     }
   ]
 }

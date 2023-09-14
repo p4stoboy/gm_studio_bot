@@ -1,0 +1,64 @@
+{
+  "root": [
+    {
+      "name": "age",
+      "values": [
+        "new",
+        "old"
+      ]
+    },
+    {
+      "name": "hatch",
+      "values": [
+        "shadowhatched",
+        "windhatched"
+      ]
+    },
+    {
+      "name": "palette",
+      "values": [
+        "strength",
+        "courage",
+        "mastery",
+        "laughter",
+        "you",
+        "health",
+        "contentment",
+        "joy",
+        "find",
+        "passion",
+        "may",
+        "meaning",
+        "duty",
+        "love"
+      ]
+    },
+    {
+      "name": "tectonics",
+      "values": [
+        "___",
+        "oo",
+        "_",
+        "-_",
+        "-_-",
+        "__",
+        "_-"
+      ]
+    },
+    {
+      "name": "twins",
+      "values": [
+        "single_page",
+        "double_page"
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        "storybook",
+        "tinybook",
+        "flowbook"
+      ]
+    }
+  ]
+}
